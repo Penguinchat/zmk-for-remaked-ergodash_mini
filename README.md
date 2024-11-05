@@ -1,0 +1,1 @@
+add zmk studio enable
